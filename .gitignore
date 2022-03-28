@@ -1,5 +1,3 @@
 !data/
 !.gitignore
-.env
-.env.*
 vender
